@@ -36,7 +36,7 @@ svg{
     z-index: 999999999;
     border-radius: 50%;
     pointer-events: none;
-    border: 1.2px solid #fff;
+    border: 1.2px solid white;
 }
 
 #background{
@@ -54,7 +54,7 @@ svg{
     letter-spacing: 15px;
     transform: rotate(-90deg);
     font-size: 8px;
-    font-family: "Montserrat";
+    font-family: 'Montserrat';
 }
 
 #wrapper{
@@ -71,10 +71,10 @@ svg{
 }
 
 #wrapper h1{
-    color: #fff;
+    color: white;
     font-size: 700px;
     font-weight: 900;
-    font-family: "Montserrat";
+    font-family: 'montserrat';
 }
 
 #whitestrip{
@@ -84,7 +84,7 @@ svg{
     position: absolute;
     top: 50%;
     right: 0;
-    transform: translate(0, -50%);
+    transform: translate(0%, -50%);
     width: 53%;
     height: 140px;
     background-color: white;
@@ -94,8 +94,8 @@ svg{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 30px;
     position: absolute;
+    padding: 30px;
     top: 50%;
     left: 0;
     transform: translate(-50%, -50%);
@@ -109,27 +109,27 @@ svg{
     text-align: center;
     font-size: 14px;
     line-height: 26px;
-    font-family: "PlayFair Display";
+    font-family: 'Playfair Display', serif;
 }
 
-#linelem{
+#lineelem{
     display: flex;
     align-items: center;
 }
 
-#linelem .line{
+#lineelem .line{
     width: 200px;
     height: 2px;
     margin: 0 30px;
     background-color: black;
 }
 
-#linelem h4{
-    font-family: "PlayFair Display";
+#lineelem h4{
+    font-family: 'Playfair Display', serif;
     font-size: 13px;
 }
 
-#linelem i{
+#lineelem i{
     cursor: pointer;
 }
 
