@@ -1,11 +1,7 @@
 # Modern-Website-JD
 
-This repository contains Modern Website Design.
+This repository contains Modern Website Design; Designed on HTML, CSS, JavaScript & GSAP.
 
-Designed on HTML, CSS, JavaScript & GSAP.
+You can click the link to see it in your browser; (Note: Not a Mobile Responsive):
 
-You can click the link to see it in your browser:
-
-https://thisisanalyst.github.io/Modern-Website-JD/
-
-(Note: It is Not Mobile Responsive)
+https://thisisanalyst.github.io/Modern-Animated-Website-JD/
